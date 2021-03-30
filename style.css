@@ -1,0 +1,44 @@
+body {
+   background: url(images/fon1.jpg); 
+   background-size: cover;
+   background-position: center;
+
+
+}
+.shoha{
+    font-size: 35px;
+}
+
+
+h1{
+    border: 5px solid #3E3E3E;
+    border-radius: 100px;
+ 
+  
+    background-color:#3E3E3E;
+    color: #3E3E3E;
+    font-size: 40px;
+}
+
+h1:hover{
+    background-color: white;
+    color: black;
+    transform: scale(2);
+    transition: 3s all;
+}
+
+#shapka{
+    background-color: #3E3E3E;
+    border: 10px solid #1B1B1B;
+    border-radius: 100px;
+
+}
+#shapka:hover{
+    color: #3E3E3E;
+    transition: 3s all;
+}
+
+#ssilka{
+    color: black;
+}
+
